@@ -1,0 +1,13 @@
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\SDM_WPF_GUI\FlashAxLib\bin\Debug\FlashAxLib.dll
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\SDM_WPF_GUI\FlashAxLib\bin\Debug\FlashAxLib.pdb
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\SDM_WPF_GUI\FlashAxLib\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\SDM_WPF_GUI\FlashAxLib\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\SDM_WPF_GUI\FlashAxLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\SDM_WPF_GUI\FlashAxLib\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\SDM_WPF_GUI\FlashAxLib\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\SDM_WPF_GUI\FlashAxLib\obj\Debug\FlashAxLib.csproj.ResolveComReference.cache
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\SDM_WPF_GUI\FlashAxLib\obj\Debug\FlashAxLib.FlashAxControl.resources
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\SDM_WPF_GUI\FlashAxLib\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\SDM_WPF_GUI\FlashAxLib\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\SDM_WPF_GUI\FlashAxLib\obj\Debug\FlashAxLib.dll
+C:\Users\Rahul\Documents\Visual Studio 2010\Projects\SDM_WPF_GUI\FlashAxLib\obj\Debug\FlashAxLib.pdb

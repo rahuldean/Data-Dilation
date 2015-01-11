@@ -1,0 +1,5 @@
+1.read a file and count the number of numbers
+grep [0-9]* -wc  d1.txt
+
+2.Find value of 3rd column >=1 and print column 1 from d1 file 
+awk '$3 >= 1 {print $1 }' d1 | cat > a.txt

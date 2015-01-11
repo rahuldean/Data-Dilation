@@ -1,0 +1,20 @@
+/* 
+ * Author: Rahul
+ * Created on January 18, 2012, 12:32 AM
+ */
+
+char *p="this is how par it should repar n pared n parlele";
+int total=0;
+while ( (p=strstr(p,"par")) != NULL )
+  {
+    total++;
+    p++;
+  }
+printf("%d", total); 
+
+/* strstr returns a char pointer (pointer contains address of the1st char)
+ *strstr gets the first occurence of "par" in p i.e it has address of p in 1st par
+ * now we increment p so it will be at a of 1st par and goes back to chk while condn
+ *now strstr sets the p (addr) to the location of p in repar 
+ *so on we continue and incremen total to count par sub str occurences
+ */

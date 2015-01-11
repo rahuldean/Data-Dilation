@@ -1,0 +1,38 @@
+/* 
+ * File:   main.c
+ * Author: Rahul
+ *
+ * Created on January 18, 2012, 10:27 PM
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+/*
+ * 
+ */
+int main(int argc, char** argv) {
+    FILE *fp;
+    fp = fopen("inp","r");
+    if (fp!=NULL)
+    {
+        char str[100]="0x0";
+        char *ptr;
+        char delim[]=". ";
+        char *res=NULL;
+         
+        while ((ptr=fgets(str,sizeof str,fp))!=NULL)
+        {
+            res = strtok(str,delim);
+            while (res !=NULL)
+              {
+              printf("%s\n",res);
+              res = strtok(NULL,delim);
+        
+              }
+            ptr++;
+        }
+    }
+    return (EXIT_SUCCESS);
+}
